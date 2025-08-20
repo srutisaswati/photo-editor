@@ -46,7 +46,7 @@ Then open your browser at **[http://localhost:8501](http://localhost:8501)**
  ├── requirements.txt   # Dependencies
  └── README.md          # Project documentation
 
-
+---
 ---
 
 ##  Environment Variables (Optional for AI features)
