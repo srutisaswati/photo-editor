@@ -42,14 +42,14 @@ Then open your browser at **[http://localhost:8501](http://localhost:8501)**
 
 
 📂 photo-editor/
- ├── app.py             # Main Streamlit app
+ ├── appp.py             # Main app
  ├── requirements.txt   # Dependencies
  └── README.md          # Project documentation
 
 
 ---
 
-## 🔑 Environment Variables (Optional for AI features)
+##  Environment Variables (Optional for AI features)
 
 If you’re using **Google Gemini API** for caption generation, add your API key in `.streamlit/secrets.toml`:
 
@@ -67,12 +67,6 @@ GEMINI_API_KEY = "your_api_key_here"
 * [OpenCV](https://opencv.org/) – Computer vision filters
 * [Google Gemini API](https://ai.google.dev/) (optional) – AI captions
 * Python 3.9+
-
----
-
-## 📷 Demo
-
-👉 Add a screenshot or gif of your app here.
 
 ---
 
