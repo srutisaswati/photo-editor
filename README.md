@@ -47,7 +47,6 @@ Then open your browser at **[http://localhost:8501](http://localhost:8501)**
  └── README.md          # Project documentation
 
 ---
----
 
 ##  Environment Variables (Optional for AI features)
 
