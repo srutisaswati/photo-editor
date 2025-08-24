@@ -41,10 +41,11 @@ Then open your browser at **[http://localhost:8501](http://localhost:8501)**
 ## ⚙ Project Structure
 
 
-📂 photo-editor/
- ├── appp.py             # Main app
- ├── requirements.txt   # Dependencies
- └── README.md          # Project documentation
+photo editor/  
+ ├── appp.py  #main app
+ ├── requirements.txt
+ └── README.md
+ 
 
 ---
 
@@ -81,4 +82,3 @@ This project is licensed under the **MIT License**.
 
 
 
----
